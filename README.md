@@ -1,0 +1,2 @@
+# Medical_Image_Segmentation_Network_ori
+医学器官分割初代模型
